@@ -24,7 +24,7 @@ License-File: LICENSE.txt
 ## Quick start
 ##### Download the package:
 ```
-pip install git+https://github.com/doankenneth/django_google_translate-5/tree/main
+pip install git+https://github.com/doankenneth/django-google-translate5.git
 ```
 ##### Add `google_translate` to your INSTALLED_APPS setting like this:
 ```
